@@ -7,3 +7,10 @@ The aim of the project is to setup Tickiting system for various needs of your or
 * Express
 * Node JS
 * Mongo DB
+
+### Run Locally 
+
+* Install Node dependencies
+``` npm install ```
+* Run in dev mode
+``` npm run dev ```
